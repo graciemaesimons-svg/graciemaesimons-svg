@@ -10,6 +10,7 @@
 ### 👸🏼 About Me
 - Senior UX Design Major at James Madison University
 - Focusing on creating seamless digital experiences
+- Hoping to work with Brand and Visual Design 
 
 
 ### 🛠️ Skills

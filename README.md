@@ -12,6 +12,8 @@
 - Focusing on creating seamless digital experiences
 - Hoping to work with Brand and Visual Design 
 
+### 💼 My Portfolio
+- [Check it out!](https://graciesimons.my.canva.site)
 
 ### 🛠️ Skills
 - **Languages:** JavaScript, HTML/CSS
